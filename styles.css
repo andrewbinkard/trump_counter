@@ -49,8 +49,7 @@ table {
 
 .container {
   margin: 0 auto;
-  width: 888px;
-  display: flexbox;
+  width: 200px;
 }
 
 #counter {
@@ -59,4 +58,8 @@ table {
   text-align: center;
   font-size: 4em;
   border: 10px solid black;
+}
+
+#pic {
+	width: 200px;
 }
