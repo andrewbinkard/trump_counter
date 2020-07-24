@@ -48,8 +48,8 @@ table {
 }
 
 .container {
-  margin: 0 auto;
-  width: 200px;
+	width: 50%;
+	height: 50%;
 }
 
 #counter {
@@ -60,6 +60,6 @@ table {
   border: 10px solid black;
 }
 
-#pic {
-	width: 200px;
+img {
+	width: 100%;
 }
